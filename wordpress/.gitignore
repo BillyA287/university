@@ -1,0 +1,27 @@
+/wp-admin/
+
+/wp-content/languages
+
+/wp-includes/
+/index.php
+/license.txt
+/readme.html
+/wp-*.php
+/xmlrpc.php
+
+# Configuration
+wp-config.php
+
+
+
+# Example plugin
+/wp-content/plugins/hello.php
+
+# Uploads
+/wp-content/uploads/
+
+# Log files
+*.log
+
+# htaccess
+/.htaccess
